@@ -1,1 +1,3 @@
 # Master_Application
+
+This project aims to showcase an approach to make shopping less time-consuming by using the feature already embedded in our smartphones, called Near Field Communication (NFC) reader. Exploiting NFC technology, it can help to read Radio-frequency identification (RFID) tags that store product information. When customers intend to buy an item, they will read the tag using the NFC in our phone(s), the RFID tag identifier will cross-check with an item on the cloud and update the quantity when items checkout the cart. The benefits of this technology are customers will not wait in lines and business operations and equipment costs will be reduced.
